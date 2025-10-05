@@ -2,23 +2,21 @@
 
 The tenancy created by this Agreement is governed by the Residential Tenancies Act (the "Act") and if there is a conflict between this Agreement and the Act, the Act prevails.
 
-**THIS LEASE AGREEMENT** made effective the ${EFFECTIVE_DATE}
+**THIS LEASE AGREEMENT** made effective the **${COMMENCEMENT_DAY}** day of **${COMMENCEMENT_MONTH}**, **${COMMENCEMENT_YEAR}**
 
 ## BETWEEN:
 
-::: center
 LANDLORD(S)\
 **${LANDLORD_NAMES}**\
 ${LANDLORD_ADDRESS}\
-(hereinafter referred to as "Landlord")\
+(hereinafter referred to as "Landlord")
 
-\-and-
+-and-
 
-TENANT(S) 
+TENANT(S)\
 **${TENANT_NAMES}**\
 ${PROPERTY_ADDRESS}\
-(hereinafter referred to as "Tenant")\
-:::
+(hereinafter referred to as "Tenant")
 
 ## WHEREAS:
 
@@ -38,7 +36,7 @@ Landlord and Tenant agree that this Lease shall revert to a periodic month to mo
 
 ## 2\. RENT AND PAYMENT METHODS
 
-2.1 Rent Amount: The Tenant shall pay as rent to the Landlord the amount of **${RENT_AMOUNT_WORDS}** **(${RENT_AMOUNT})**of lawful money of Canada, payable in advance on the first day of each and every month, the first rent payment to be made on the Commencement Date.
+2.1 Rent Amount: The Tenant shall pay as rent to the Landlord the amount of **${RENT_AMOUNT_WORDS}** **(${RENT_AMOUNT})** of lawful money of Canada, payable in advance on the first day of each and every month, the first rent payment to be made on the Commencement Date.
 
 2.2 Accepted Payment Methods: Rent and any other charges may be paid by any of the following methods:
 
@@ -143,7 +141,7 @@ The property is located within a community subject to Homeowners Association rul
 
 (e) Comply with all SHOA rules and regulations.
 
-SHOA access is not guaranteed and is subject to both Landlord consent and SHOA approval.
+Access is not guaranteed and is subject to both Landlord consent and SHOA approval.
 
 ## 11\. PETS
 
@@ -207,15 +205,19 @@ The Landlord shall not increase the rent payable under this Agreement or recover
 
 18.4 Contact Information: All notices, demands or requests shall be delivered to the following addresses:
 
-To the Landlord:
-Mailing Address: ${LANDLORD_ADDRESS}
-Email Address: ${LANDLORD_EMAIL}
-Phone Number: ${LANDLORD_PHONE_NUMBER}
+To the Landlord:\
+**
+${LANDLORD_ADDRESS}\
+${LANDLORD_EMAIL}\
+${LANDLORD_PHONE_NUMBER}
+**
 
-To the Tenant:
-Mailing Address: ${PROPERTY_ADDRESS}
-Email Address: ${TENANT_EMAIL}
-Phone Number: ${TENANT_PHONE_NUMBER}
+To the Tenant:\
+**
+${PROPERTY_ADDRESS}\
+${TENANT_EMAIL}\
+${TENANT_PHONE_NUMBER}
+**
 
 ## 19\. GENERAL PROVISIONS
 
@@ -235,16 +237,22 @@ Phone Number: ${TENANT_PHONE_NUMBER}
 
 (h) Pursuant to the provisions of the Act, this Agreement does not apply to mobile home sites, living accommodation attached to premises occupied and rented for business purposes, rooms in the living quarters of a landlord if the landlord resides in those quarters, hotels as defined in s.2(2)(d) of the Act, dormitory rooms, nursing homes, lodge accommodation, social care facilities, or correctional institutions.
 
-**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the day and year first above written.
+**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the day and year first above written.\
+
+
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-${LANDLORD_NAMES_CAPS}, LANDLORD(S)
+${LANDLORD_NAMES_CAPS}, LANDLORD(S)\
+
+
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-${TENANT_NAMES_CAPS}, TENANT(S)
+${TENANT_NAMES_CAPS}, TENANT(S)\
+
+
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-DATE SIGNED
+DATE SIGNED\
