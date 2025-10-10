@@ -89,6 +89,27 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 6.3 **Renters Insurance**: Tenant shall obtain and maintain tenant insurance with minimum liability coverage of $1,000,000 throughout the tenancy and provide proof of coverage annually.
 
+6.4 **Outdoor Maintenance Responsibilities**: Tenant shall be responsible for:
+(a) **Snow Removal**: Promptly removing snow and ice from all sidewalks, driveways, walkways, and entrance areas serving the Premises, in accordance with municipal bylaws (typically within 24-48 hours of snowfall cessation)
+(b) **Lawn Care**: Maintaining all lawn areas, including regular mowing during growing season, edging, and basic weed control to keep grass at reasonable length and appearance
+(c) **Leaf and Debris Removal**: Regularly removing fallen leaves, branches, and other natural debris from yard areas and maintaining general tidiness of outdoor spaces
+(d) **Garden Maintenance**: Basic upkeep of any existing flower beds, shrubs, or landscaped areas, including watering and weed removal (major landscaping changes require Landlord approval)
+(e) **Municipal Compliance**: Ensuring all outdoor maintenance meets municipal standards and bylaws; Tenant is responsible for any fines resulting from non-compliance with municipal maintenance requirements
+
+6.5 **Chemical and Waste Disposal Restrictions**: Tenant shall NOT:
+(a) Pour cooking oil, grease, or any petroleum-based products down sinks, toilets, or drains
+(b) Dispose of paint, solvents, cleaning chemicals, or other hazardous materials through plumbing systems
+(c) Flush inappropriate items including feminine hygiene products, diapers, wipes, or medications down toilets
+(d) Use caustic drain cleaners or industrial chemicals that could damage plumbing systems
+(e) Dispose of automotive fluids, batteries, or electronic waste in regular garbage or down drains
+
+6.6 **Proper Disposal Requirements**: Tenant shall:
+(a) Use appropriate municipal waste collection services for hazardous materials
+(b) Take cooking oil and automotive fluids to designated recycling centers
+(c) Dispose of paint and chemicals at municipal hazardous waste facilities
+(d) Report any accidental spills or improper disposal immediately to Landlord
+(e) Be financially responsible for any plumbing damage or environmental cleanup costs resulting from improper disposal
+
 ## 7\. LANDLORD OBLIGATIONS
 
 7.1 **Maintenance Standards**: Landlord shall maintain the Premises in a good state of repair and fit for habitation, complying with health, safety, and housing standards.
