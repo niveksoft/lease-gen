@@ -6,14 +6,14 @@ The tenancy created by this Agreement is governed by the Residential Tenancies A
 
 ## BETWEEN:
 
-LANDLORD(S)\
+**LANDLORD(S)**\
 **${LANDLORD_NAMES}**\
 ${LANDLORD_ADDRESS}\
 (hereinafter referred to as "Landlord")
 
 -and-
 
-TENANT(S)\
+**TENANT(S)**\
 **${TENANT_NAMES}**\
 ${PROPERTY_ADDRESS}\
 (hereinafter referred to as "Tenant")
@@ -24,252 +24,185 @@ A. Landlord owns the property located at **${PROPERTY_ADDRESS}** (hereinafter ca
 
 B. Tenant is desirous of renting the Premises from Landlord on a fixed term basis;
 
-**NOW THEREFORE THIS AGREEMENT WITNESSES** that in consideration of the mutual covenants and agreements contained in this Agreement and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged by the parties, the parties hereby agree as follows:
+**NOW THEREFORE THIS AGREEMENT WITNESSES** that in consideration of the mutual covenants and agreements contained in this Agreement and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged by the parties hereto, the parties agree as follows:
 
 ## 1\. TERM
 
-The Landlord does hereby lease to the Tenant the Premises "as is" on a fixed term basis to commence on the **${COMMENCEMENT_DAY}** day of **${COMMENCEMENT_MONTH}**, **${COMMENCEMENT_YEAR}** (the "**Commencement** **Date**") and to terminate on the **${TERMINATION_DAY}** day of **${TERMINATION_MONTH}**, **${TERMINATION_YEAR}** (the "**Termination** **Date**"). The tenancy created by this agreement will end on the Termination Date, and the Tenant will give up possession of the Premises to the Landlord on the Termination Date.
+1.1 **Fixed Term**: The term of this tenancy shall commence on **${COMMENCEMENT_DATE}** and terminate on **${TERMINATION_DATE}** (the "Termination Date") at 11:59 PM.
 
-**PLEASE NOTE**: The Tenant shall be and shall remain liable to pay rent to the Landlord from the Commencement Date and each and every month thereafter until the Termination Date, notwithstanding that the Tenant shall have abandoned or otherwise unilaterally determined to give up possession of the Premises, subject only to the Landlord's duty to mitigate its damages by making reasonable efforts to lease the Premises to a third party.
-
-Landlord and Tenant agree that this Lease shall revert to a periodic month to month tenancy lease, which said periodic month to month tenancy lease shall be governed by the Act, on the Termination date unless: (a) Landlord or Tenant have served the other party with a notice of termination; or (b) Landlord and Tenant have entered into and fully executed a new tenancy lease.
+1.2 **No Automatic Renewal**: This is a fixed-term tenancy that does not automatically renew. The tenancy will end on the Termination Date unless terminated earlier in accordance with this Agreement or the Act.
 
 ## 2\. RENT AND PAYMENT METHODS
 
-2.1 Rent Amount: The Tenant shall pay as rent to the Landlord the amount of **${RENT_AMOUNT_WORDS}** **(${RENT_AMOUNT})** of lawful money of Canada, payable in advance on the first day of each and every month, the first rent payment to be made on the Commencement Date.
+2.1 **Monthly Rent**: Tenant agrees to pay monthly rent of **$${MONTHLY_RENT}** payable in advance on the **${RENT_DUE_DAY}** day of each month.
 
-2.2 Accepted Payment Methods: Rent and any other charges may be paid by any of the following methods:
+2.2 **Payment Methods**: Rent shall be paid by e-transfer to **${EMAIL_ADDRESS}** or by other mutually agreed electronic transfer method. Cash payments are discouraged for security reasons.
 
-- Cash
-- Personal cheque
-- Interac e-transfer
-- Electronic bank transfer
+2.3 **First Payment**: The first month's rent in the amount of **$${FIRST_MONTH_RENT}** is due upon signing this Agreement.
 
-2.3 Payment Processing: For electronic payments, payments are considered received when funds are deposited and available in the Landlord's designated account. Electronic payment confirmations serve as proof of payment. The Tenant is responsible for any processing fees associated with their chosen payment method.
+2.4 **Prorated Rent**: If the tenancy commences on a day other than the first day of the month, the first month's rent shall be prorated accordingly.
 
 ## 3\. SECURITY DEPOSIT
 
-(a) The Tenant shall pay the Landlord a security deposit of **${RENT_AMOUNT}**, not to exceed **1** month's rent.
+3.1 **Amount**: Tenant has paid a security deposit of **$${SECURITY_DEPOSIT}**, which shall not exceed one month's rent as required by the Act.
 
-(b) The Landlord shall invest the security deposit in an interest-bearing trust account at a bank, treasury branch, credit union, or trust corporation in Alberta within two (2) banking days of receiving the security deposit.
+3.2 **Trust Account**: Landlord shall deposit the security deposit in an interest-bearing trust account within two (2) banking days of receipt, as required by Section 44 of the Act.
 
-(c) The Landlord shall pay the interest earned on the security deposit to the Tenant at the termination of the tenancy at the rate prescribed by the Security Deposit Interest Rate Regulation.
+3.3 **Annual Interest**: Landlord shall pay Tenant annual interest on the security deposit at the rate prescribed by Alberta Regulation, currently 0.5% per annum, payable annually unless otherwise agreed in writing.
 
-(d) Subject to paragraphs (e) and (f) below, within ten (10) days after the day the Tenant gives up possession of the Premises, the Landlord shall return the security deposit to the Tenant, less permitted deductions other than for reasonable wear and tear, along with a statement of account showing the amount of the deductions.
+3.4 **Receipt**: Landlord acknowledges providing Tenant with a receipt for the security deposit showing the amount, date, and parties to the transaction.
 
-(e) If the Landlord is unable to determine the amount of the permitted deductions within 10 days, the Landlord shall deliver an estimated statement of account along with the balance of the security deposit that the Landlord does not need to the Tenant within ten (10) days. The Landlord shall deliver a final statement of account showing the amount of the deductions along with the balance of the security deposit to the Tenant within thirty (30) days after the day the Tenant gives up possession of the Premises.
+## 4\. LATE PAYMENT CHARGES
 
-(f) The Landlord shall not be entitled to hold back any portion of the security deposit for estimated deductions pursuant to paragraph (e) above unless the Landlord has complied with inspection and reporting obligations set out in Section 5 below.
+4.1 **Reasonable Fee**: If rent is not paid when due, Tenant shall pay a late payment charge of **$10.00** for the day rent is due, plus **$2.00** for each additional day rent remains unpaid, to a maximum of **$50.00** per month.
 
-## 4\. LATE FEES & DISHONORED PAYMENTS
+4.2 **Liquidated Damages**: This fee represents a genuine pre-estimate of liquidated damages and administrative costs incurred by Landlord, not a penalty.
 
-Any rent payment not made on the first day of the month shall incur a late fee of **${LATE_FEE}**. Any payment method that fails (including dishonored cheques, failed e-transfers, insufficient funds for bank transfers, or failed electronic payments) shall incur a processing fee of **${LATE_FEE}**. Any such fees incurred shall be due immediately and recoverable as rent.
+## 5\. MANDATORY INSPECTION REPORTS
 
-## 5\. INSPECTION OF PREMISES
+5.1 **Move-In Inspection**: Landlord and Tenant shall conduct a written inspection of the Premises within one (1) week before or after Tenant takes possession, as required by Section 19 of the Act.
 
-(a) The Landlord and the Tenant shall inspect the Premises within one week before or after the Tenant takes possession, and the Landlord shall immediately provide the Tenant with a report describing the condition of the Premises.
+5.2 **Move-Out Inspection**: Landlord and Tenant shall conduct a written inspection of the Premises within one (1) week before or after Tenant vacates, as required by Section 19 of the Act.
 
-(b) The Landlord and the Tenant shall inspect the Premises within one week before or after the Tenant gives up possession, and the Landlord shall immediately provide the Tenant with a report describing the condition of the Premises.
+5.3 **Required Statements**: All inspection reports shall contain the prescribed statements and signatures required by the Residential Tenancies Ministerial Regulation.
+
+5.4 **Tenant Attendance**: Tenant has the right to attend all inspections. If Tenant refuses or fails to attend two (2) proposed inspection times on different non-holiday days between 8 AM and 8 PM, Landlord may complete the inspection without Tenant.
+
+5.5 **Immediate Report**: Landlord shall provide Tenant with a copy of each inspection report immediately upon completion.
+
+5.6 **Consequence of Non-Compliance**: Landlord cannot deduct from the security deposit for damages if proper inspection reports are not completed and provided to Tenant.
 
 ## 6\. TENANT OBLIGATIONS
 
-The Tenant covenants to:
+6.1 **General Care**: Tenant shall:
+(a) Pay rent when due
+(b) Keep the Premises clean and in good repair
+(c) Repair or pay for repair of damage caused by Tenant, guests, or pets (excluding normal wear and tear)
+(d) Not disturb other tenants or neighbors
+(e) Comply with all applicable laws and municipal bylaws
 
-(a) use the Premises for residential purposes only and for no other purpose;
+6.2 **Prohibited Activities**: Tenant shall not:
+(a) Engage in illegal activities on the Premises
+(b) Cause substantial interference with other tenants
+(c) Damage the Premises beyond normal wear and tear
+(d) Sublet or assign without Landlord's written consent
 
-(b) pay the rent and all other charges when the same become due;
-
-(c) not interfere in any significant manner with the rights of either Landlord or other tenants in the Premises, the common areas, or the property of which they form a part;
-
-(d) not perform any illegal acts or carry on an illegal trade, business, or occupation in the Premises, the common areas, or the property of which they form a part;
-
-(e) not endanger persons or property in the Premises, the common areas, or the property of which they form a part;
-
-(f) not cause or allow significant damage to the Premises, the common areas, or the property of which they form a part;
-
-(g) not change, replace or add any locks to the Premises without the prior written consent of Landlord;
-
-(h) to comply with the condominium bylaws, the direction of the condominium board of directors, and the provisions of the Condominium Property Act, if applicable;
-
-(i) Tenant is responsible for their own property contents and personal liability insurance. Proof of insurance to be provided to the landlord on or prior to move in and key release. Failure to maintain insurance or provide proof of insurance shall constitute a material breach of this Agreement and may result in termination of the tenancy;
-
-(j) maintain the Premises and any property rented with it in a reasonably clean condition;
-
-(k) perform all exterior maintenance including but not limited to: watering and cutting the lawn, maintaining landscaping, shoveling snow from sidewalks and walkways, removing ice, and keeping all exterior areas clean and well-maintained;
-
-(l) properly dispose of all waste materials and refuse. Tenant shall not dispose of cooking oils, grease, chemicals, paint, solvents, or any other hazardous or inappropriate materials in sinks, toilets, drains, or any plumbing fixtures. Such disposal may result in costly repairs and environmental damage, for which Tenant shall be liable;
-
-(m) thoroughly clean the Premises upon termination of the tenancy. This includes but is not limited to: cleaning all surfaces, appliances, fixtures, floors, windows, walls, and removing all personal belongings and garbage. The Premises must be returned in the same clean condition as received, allowing for reasonable wear and tear. Failure to adequately clean the Premises may result in professional cleaning costs being deducted from the security deposit;
-
-(n) vacate the Premises at the termination of the tenancy.
+6.3 **Renters Insurance**: Tenant shall obtain and maintain tenant insurance with minimum liability coverage of $1,000,000 throughout the tenancy and provide proof of coverage annually.
 
 ## 7\. LANDLORD OBLIGATIONS
 
-The Landlord covenants to:
+7.1 **Maintenance Standards**: Landlord shall maintain the Premises in a good state of repair and fit for habitation, complying with health, safety, and housing standards.
 
-(a) have the Premises available for occupation by the Tenant on the Commencement Date;
+7.2 **Essential Services**: Landlord shall ensure the provision of essential services including heat, water, and electricity unless specifically excluded in this Agreement.
 
-(b) provide the Premises to the Tenant in a clean and sanitary condition suitable for occupancy at the commencement of the tenancy;
+7.3 **Repairs**: Landlord shall make necessary repairs within a reasonable time after receiving notice from Tenant.
 
-(c) not disturb in any significant manner the Tenant's possession or peaceful enjoyment of the Premises;
+## 8\. UTILITIES
 
-(d) ensure that the Premises will meet at least the minimum standards prescribed for housing premises under the Public Health Act and regulations.
+8.1 **Utility Split**: Utilities shall be divided as follows:
+(a) Tenant (Main Floor): 60% of total utility costs
+(b) Other Tenant (Basement): 40% of total utility costs
 
-## 8\. REPAIRS
+8.2 **Payment Arrangement**: Landlord shall pay all utility bills and charge Tenant monthly for their proportional share, with statements provided for verification.
 
-Landlord covenants to keep the Premises in a good state of repair, and Tenant agrees to give Landlord prompt written notice of any defect, accident or fault in the water pipes, heating apparatus, wiring or to any other part of the Premises. Tenant further covenants to repair any damage caused to the Premises by Tenant's willful or negligent conduct or that of persons who are permitted on the Premises by Tenant.
+## 9\. ENTRY BY LANDLORD
 
-## 9\. UTILITIES
+9.1 **Notice Required**: Landlord may enter the Premises only after giving Tenant at least 24 hours written notice, except in emergencies.
 
-Main Floor Tenant shall pay **${MAIN_FLOOR_UTILITY_PERCENT}** of sewer, water, electrical, natural gas and other utilities and charges respecting the property's occupation and use from the Commencement Date until the return of the Premises to the Landlord by Tenant.
+9.2 **Permitted Entry**: Entry is permitted for:
+(a) Inspections and repairs
+(b) Showing to prospective purchasers or tenants
+(c) Pest control treatments
+(d) Emergency situations
 
-Basement Tenant shall pay **${BASEMENT_UTILITY_PERCENT}** of sewer, water, electrical, natural gas and other utilities and charges respecting the property's occupation and use from the Commencement Date until the return of the Premises to the Landlord by Tenant.
+9.3 **Entry Hours**: Entry shall be between 8 AM and 8 PM on non-holidays, except Tenant's religious day of worship if written notice provided.
 
-**Additional utilities to be set up and paid by each Tenant individually: cable, internet, telephone, etc.**
+## 10\. PETS
 
-## 10\. SETON HOMEOWNERS ASSOCIATION (SHOA)
+10.1 **No Pets**: No pets are permitted on the Premises without Landlord's prior written consent.
 
-The property is located within a community subject to Homeowners Association rules and fees. If the Tenant wishes to access SHOA facilities and amenities, the Tenant must:
+10.2 **Pet Damage**: If pets are permitted, Tenant is liable for all pet-related damage beyond normal wear and tear.
 
-(a) Submit a formal request to the Landlord for SHOA privilege transfer;
+## 11\. RENT INCREASES
 
-(b) Obtain approval from the Homeowners Association for privilege transfer;
+11.1 **Minimum Period**: Rent cannot be increased until at least 365 days have passed since the tenancy began or the last rent increase, whichever is later.
 
-(c) Complete all required SHOA application forms and provide necessary documentation;
+11.2 **Fixed Term Restriction**: No rent increases are permitted during the term of this fixed-term tenancy agreement.
 
-(d) Pay the annual SHOA membership fees based on when access begins; and
+11.3 **Notice Requirements**: Any future rent increase must comply with the notice requirements under the Act.
 
-(e) Comply with all SHOA rules and regulations.
+## 12\. EARLY TERMINATION
 
-Access is not guaranteed and is subject to both Landlord consent and SHOA approval.
+12.1 **Mutual Agreement**: This lease may be terminated prior to the Termination Date only by mutual written agreement between Landlord and Tenant, specifying the early termination date and conditions.
 
-## 11\. PETS
+12.2 **Tenant-Initiated Early Termination**: 
+(a) Tenant may request early termination by providing Landlord with at least sixty (60) days written notice
+(b) Tenant remains liable for rent until the earlier of: (i) the Termination Date, or (ii) the date a replacement tenant begins occupancy
+(c) Landlord agrees to make reasonable efforts to re-rent the Premises promptly at fair market rent
 
-No pets or any other animals shall be allowed on the Premises, unless the Landlord has provided written consent to the Tenant identifying the pets the Landlord agrees to allow on the Premises in a separate Pet Addendum attached to and forming part of this Agreement. Any breach of this paragraph by the Tenant will be a substantial breach of this Agreement and may result in the termination of the tenancy created hereunder.
+12.3 **Landlord Termination for Breach**: Landlord may terminate this lease for substantial breach by providing Tenant with fourteen (14) days written notice specifying the breach and required remedy.
 
-## 12\. FIRE SAFETY
+12.4 **Special Circumstances**: This lease may be terminated without penalty if Tenant provides appropriate certification for:
+(a) Domestic or family violence situations as provided under the Act
+(b) Senior's designated supportive living situations
 
-The Tenant shall at all times exercise and take reasonable precautions to protect the Premises against fire and shall not keep or store, or suffer or permit to be kept or stored in or on the Premises any inflammable oils, substances, or materials, or carry on any activity whatsoever to be contrary to any municipal by-law.
+12.5 **No Penalty Fees**: No early termination or lease break fees shall be charged, as such fees are unenforceable under Alberta law.
 
-## 13\. ENTRY BY LANDLORD
+## 13\. COMMUNICATIONS AND NOTICES
 
-The Tenant shall permit the Landlord or its agent at all reasonable times and upon not less than twenty-four (24) hours' written notice (unless otherwise agreed to by the Tenant) to enter upon the Premises between the hours of 8:00 am and 8:00 pm to inspect the same, view the state of repair thereof, and make any repairs thereto for which the Landlord is responsible, provided however in the event of a situation deemed by the Landlord to be an emergency, the Landlord shall be immediately entitled to enter upon the Premises.
+13.1 **Written Notice**: All notices must be in writing and delivered by:
+(a) Personal service
+(b) Registered mail to the addresses specified in this Agreement
+(c) Electronic transmission resulting in a printed copy, if other methods unavailable
 
-## 14\. ASSIGNMENT OR SUB-LET
+13.2 **Landlord's Address**: Tenant shall deliver notices to Landlord at: **${LANDLORD_ADDRESS}**
 
-(a) The Tenant shall not, without prior written consent from the Landlord, assign or sublet or part with possession of the Premises or any part thereof, and the Landlord shall not unreasonably or arbitrarily withhold consent. If Landlord refuses to give consent, Landlord shall provide Tenant with written reasons for such refusal.
+13.3 **Deemed Service**: Notices are deemed served:
+(a) When personally delivered
+(b) Three (3) days after mailing by registered mail
+(c) When electronic transmission is confirmed received
 
-(b) If Landlord does not respond to Tenant's request for consent within fourteen (14) days after receiving such request, Landlord is deemed to have given consent.
+## 14\. ASSIGNMENT AND SUBLETTING
 
-(c) Landlords shall not charge a fee for giving consent to an assignment or sublease.
+14.1 **Written Consent Required**: Tenant shall not assign this tenancy or sublet the Premises without Landlord's prior written consent.
 
-(d) Unless the Landlord and Tenant agree otherwise, the Landlord reserves the right to serve a notice to vacate on any person occupying the premises other than the Tenant.
+14.2 **Reasonable Consent**: Landlord shall not unreasonably withhold consent to assignment or subletting.
 
-## 15\. TENANT ALTERATIONS OR IMPROVEMENTS
+## 15\. TERMINATION AND MOVE-OUT
 
-The Tenant shall make no changes, alterations or improvements to the Premises without the prior written consent of the Landlord.
+15.1 **Natural Termination**: This tenancy shall terminate on the Termination Date specified in Section 1.1.
 
-## 16\. TERMINATION AND RENEWAL
+15.2 **Move-Out Requirements**: Upon termination, Tenant shall:
+(a) Remove all personal property
+(b) Return all keys and access devices
+(c) Leave the Premises clean and undamaged (normal wear and tear excepted)
+(d) Attend the move-out inspection
 
-(a) This Agreement shall automatically terminate without notice on the Termination Date, unless at least ${RENEWAL_NOTICE_DAYS} days prior to the Termination Date, Tenant shall give the Landlord written notice of Tenant's offer to renew the lease for an additional term of **${RENEWAL_TERM_YEARS}** year(s).
+15.3 **Security Deposit Return**: Landlord shall return the security deposit plus accrued interest within ten (10) days of termination, less any lawful deductions, with a written statement of account.
 
-(b) Within fourteen (14) days of receipt of such notice, Landlord shall inform Tenant in writing whether Landlord accepts or rejects Tenant's offer to renew.
+## 16\. GENERAL PROVISIONS
 
-(c) If Landlord accepts Tenant's offer of renewal, the parties shall enter into a new agreement upon such terms and conditions as the parties may agree.
+16.1 **Entire Agreement**: This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements.
 
-(d) After the Termination Date, provided that the parties have not renewed the lease, Tenant may terminate the month-to-month tenancy by giving the Landlord at least ${RENEWAL_TERM_YEARS} month's written notice.
+16.2 **Severability**: If any provision is unenforceable, the remainder shall remain in full force and effect.
 
-(e) After the Termination Date, provided that the parties have not renewed the lease, Landlord may terminate the month-to-month tenancy by giving Tenant at least three (3) months' written notice in accordance with the Alberta Residential Tenancies Act for allowable reasons only.
+16.3 **Governing Law**: This Agreement is governed by Alberta law and the Act prevails in case of conflict.
 
-## 17\. RENT INCREASES
+16.4 **Binding Effect**: This Agreement binds the parties' heirs, executors, administrators, successors, and assigns.
 
-The Landlord shall not increase the rent payable under this Agreement or recover any additional rent resulting from an increase in rent unless written notice is given to Tenant at least three (3) tenancy months prior to the effective date of any such rent increase. Rent shall not be increased more than once in any tenancy year.
+**IN WITNESS WHEREOF** the parties have executed this Agreement on the date first written above.
 
-## 18\. COMMUNICATIONS AND NOTICES
+**LANDLORD:**
 
-18.1 Electronic Communications: The parties agree that electronic communications may be used for notices, communications, and document delivery under this Agreement, subject to the requirements of the Alberta Residential Tenancies Act. Electronic communications include email, text messages, and other electronic methods that provide a record of delivery and receipt.
+_________________________                    Date: ___________\
+${LANDLORD_NAMES}
 
-18.2 Communication Methods: Notices, demands, requests, and other communications may be delivered by:
+**TENANT:**
 
-- Personal delivery
-- Registered mail
-- Email
-- Text messages
+_________________________                    Date: ___________\
+${TENANT_NAMES}
 
-18.3 Deemed Receipt: Communications shall be deemed received:
+**WITNESS:** (Optional but recommended)
 
-- Personal delivery: when delivered
-- Registered mail: four (4) days after mailing
-- Email: three (3) days after sending, unless earlier receipt can be proven
-- Text messages: on the date sent, if delivery confirmation received
-
-18.4 Contact Information: All notices, demands or requests shall be delivered to the following addresses:
-
-To the Landlord:\
-**
-${LANDLORD_ADDRESS}\
-${LANDLORD_EMAIL}\
-${LANDLORD_PHONE_NUMBER}
-**
-
-To the Tenant:\
-**
-${PROPERTY_ADDRESS}\
-${TENANT_EMAIL}\
-${TENANT_PHONE_NUMBER}
-**
-
-## 19\. EARLY TERMINATION
-
-19.1 **Mutual Agreement**: This lease may be terminated prior to the Termination Date only by mutual written agreement between Landlord and Tenant, specifying the early termination date and any conditions.
-
-19.2 **Tenant-Initiated Early Termination**: 
-(a) Tenant may request early termination by providing Landlord with at least ninety (90) days written notice.
-(b) Tenant remains liable for rent payments until the earlier of: (i) the Termination Date, or (ii) the date a replacement tenant begins occupancy.
-(c) Landlord agrees to make reasonable efforts to re-rent the Premises promptly at fair market rent.
-
-19.3 **Landlord's Right to Terminate**: Landlord may terminate this lease for substantial breach by providing Tenant with fourteen (14) days written notice, specifying the breach and required remedy.
-
-19.4 **Special Circumstances**: Notwithstanding the above, this lease may be terminated without penalty if Tenant provides appropriate certification for:
-(a) Domestic or family violence situations as provided under the Residential Tenancies Act
-(b) Military deployment requiring relocation beyond 50 kilometers from the Premises
-
-19.5 **Notice Requirements**: All termination notices must be in writing and delivered in accordance with Section 18 (Communications and Notices) of this Agreement.
-
-## ## 20\. GENERAL PROVISIONS
-
-(a) Time is of the essence.
-
-(b) The Tenant and the Landlord shall comply with the requirements under all laws and ordinances of or in force in Canada and in the Province of Alberta and under all municipal by-laws, including without limitation under the Act, as amended.
-
-(c) There are no representations, warranties or conditions, expressed or implied, statutory or otherwise, other than those contained herein.
-
-(d) Any Rental Application Form completed by the Tenant and delivered to the Landlord shall be incorporated into this Agreement and shall be deemed to be part of the Agreement. The making of any misrepresentation or the supply of any false information on any such Rental Application Form will be a substantial breach of this Agreement and may result in the termination of the tenancy created hereunder.
-
-(e) No covenant or condition of this Agreement may be waived by a benefiting party except by written consent and forbearance or indulgence in any regard shall not constitute a waiver of the covenants to be performed by the other party to which the same may apply.
-
-(f) The covenants herein contained on the part of the Landlord or the Tenant to be paid, performed or observed shall be and shall at all times be construed to be the joint and several covenants of all of the persons being the Landlord or the Tenant, as the case may be.
-
-(g) The terms of this Agreement are in addition to those implied covenants of the Landlord and of the Tenant set forth under the Act and where any term hereof is contrary to such implied covenants, the Act shall be paramount in all respects. Any such contrary provision hereof shall be deemed amended to comply with the Act and such contrary covenant, whether illegal or otherwise, shall not affect the enforceability of the remainder of this Agreement.
-
-(h) Pursuant to the provisions of the Act, this Agreement does not apply to mobile home sites, living accommodation attached to premises occupied and rented for business purposes, rooms in the living quarters of a landlord if the landlord resides in those quarters, hotels as defined in s.2(2)(d) of the Act, dormitory rooms, nursing homes, lodge accommodation, social care facilities, or correctional institutions.
-
-**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the day and year first above written.\
-
-
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-${LANDLORD_NAMES_CAPS}, LANDLORD(S)\
-
-
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-${TENANT_NAMES_CAPS}, TENANT(S)\
-
-
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-DATE SIGNED\
+_________________________                    Date: ___________\
+Witness Name and Address
