@@ -49,7 +49,7 @@ Landlord and Tenant agree that this Lease shall revert to a periodic month to mo
 
 ## 3\. SECURITY DEPOSIT
 
-(a) The Tenant shall pay the Landlord a security deposit of **${RENT_AMOUNT}**, not to exceed ${RENEWAL_TERM_YEARS} month's rent.
+(a) The Tenant shall pay the Landlord a security deposit of **${RENT_AMOUNT}**, not to exceed **1** month's rent.
 
 (b) The Landlord shall invest the security deposit in an interest-bearing trust account at a bank, treasury branch, credit union, or trust corporation in Alberta within two (2) banking days of receiving the security deposit.
 
@@ -219,7 +219,24 @@ ${TENANT_EMAIL}\
 ${TENANT_PHONE_NUMBER}
 **
 
-## 19\. GENERAL PROVISIONS
+## 19\. EARLY TERMINATION
+
+19.1 **Mutual Agreement**: This lease may be terminated prior to the Termination Date only by mutual written agreement between Landlord and Tenant, specifying the early termination date and any conditions.
+
+19.2 **Tenant-Initiated Early Termination**: 
+(a) Tenant may request early termination by providing Landlord with at least ninety (90) days written notice.
+(b) Tenant remains liable for rent payments until the earlier of: (i) the Termination Date, or (ii) the date a replacement tenant begins occupancy.
+(c) Landlord agrees to make reasonable efforts to re-rent the Premises promptly at fair market rent.
+
+19.3 **Landlord's Right to Terminate**: Landlord may terminate this lease for substantial breach by providing Tenant with fourteen (14) days written notice, specifying the breach and required remedy.
+
+19.4 **Special Circumstances**: Notwithstanding the above, this lease may be terminated without penalty if Tenant provides appropriate certification for:
+(a) Domestic or family violence situations as provided under the Residential Tenancies Act
+(b) Military deployment requiring relocation beyond 50 kilometers from the Premises
+
+19.5 **Notice Requirements**: All termination notices must be in writing and delivered in accordance with Section 18 (Communications and Notices) of this Agreement.
+
+## ## 20\. GENERAL PROVISIONS
 
 (a) Time is of the essence.
 
