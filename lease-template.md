@@ -173,7 +173,7 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 10.1 **Utility Split**: Utilities shall be divided as follows:
 
-- Tenant (Main Floor): **${MAIN_FLOOR_UTILITY_PERCENT}** of total utility costs\
+- Tenant (Main Floor): **${MAIN_FLOOR_UTILITY_PERCENT}** of total utility costs
 - Other Tenant (Basement): **${BASEMENT_UTILITY_PERCENT}** of total utility costs
 
 10.2 **Payment Arrangement**: Landlord shall pay all utility bills and provide Tenant monthly statements for their proportional share. Payment shall be due within 10 days of receipt of the statement. The Tenant shall remit payment to the Landlord by e-transfer or other agreed method.
@@ -227,7 +227,7 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 15.4 **Special Circumstances**: This lease may be terminated without penalty if Tenant provides appropriate certification for:
 
-- Domestic or family violence situations as provided under the Act\
+- Domestic or family violence situations as provided under the Act
 - Senior's designated supportive living situations
 
 ## 16. COMMUNICATIONS AND NOTICES
