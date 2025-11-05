@@ -208,6 +208,36 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 10.2 **Payment Arrangement**: Landlord shall pay all utility bills and provide Tenant monthly statements for their proportional share. Payment shall be due within 10 days of receipt of the statement. The Tenant shall remit payment to the Landlord by e-transfer or other agreed method.
 
+10.3 **Late Payment Consequences**: If Tenant does not remit payment within 10 days of receipt of the monthly utility statement:
+
+- Late payment charge of **$10.00** shall be applied for the first day payment is late, plus **$2.00** for each additional day payment remains unpaid, to a maximum of **$50.00** per month
+- This fee represents a genuine pre-estimate of liquidated damages and administrative costs incurred by Landlord, not a penalty
+- Late utility payments may constitute grounds for a Notice of Non-Compliance under the Act
+
+10.4 **Accumulation of Debt**: If utility payments remain unpaid for **thirty (30) days** or more:
+
+- Landlord may cease providing utilities or pursue other remedies available under law
+- Accumulated unpaid utility charges become a debt owing by Tenant to Landlord
+- Tenant remains liable for all utility costs through the end of the tenancy
+- Unpaid utility charges may be deducted from Tenant's security deposit at move-out
+- Landlord may pursue collection for any utility debt exceeding the security deposit amount
+
+10.5 **Multiple Late Payments**: **Three (3) or more late utility payments** during the tenancy may constitute grounds for termination for substantial breach under Section 15.3 of this Agreement.
+
+10.6 **NSF and Dishonored Payments**: If any utility payment is dishonored (NSF):
+
+- Tenant shall pay the non-sufficient funds fee charged by the financial institution
+- After any dishonored payment, Landlord may require all future utility payments by certified cheque, money order, or cash only
+- Two (2) or more dishonored utility payments may constitute grounds for substantial breach termination
+
+10.7 **Failure to Pay Consequences**: Tenant acknowledges that failure to pay utilities may result in:
+
+- Interruption or suspension of utility services
+- Eviction proceedings for substantial breach of tenancy
+- Collection action for accumulated debt
+- Impact on Tenant's rental history and future housing prospects
+
+
 ## 11. ENTRY BY LANDLORD
 
 11.1 **Notice Required**: Landlord may enter the Premises only after giving Tenant at least 24 hours written notice, except in emergencies.
