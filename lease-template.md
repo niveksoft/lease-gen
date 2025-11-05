@@ -34,7 +34,7 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 ## 1. TERM
 
-1.1 **Fixed Term**: The term of this tenancy shall commence on **${COMMENCEMENT_MONTH}** **${COMMENCEMENT_DAY}**,  **${COMMENCEMENT_YEAR}** and terminate on **${TERMINATION_MONTH}** **${TERMINATION_DAY}**, **${TERMINATION_YEAR}** at 11:59 PM.
+1.1 **Fixed Term**: The term of this tenancy shall commence on **${COMMENCEMENT_MONTH}** **${COMMENCEMENT_DAY}**,  **${COMMENCEMENT_YEAR}** and terminate on **${TERMINATION_MONTH}** **${TERMINATION_DAY}**, **${TERMINATION_YEAR}**.
 
 1.2 **No Automatic Renewal**: This is a fixed-term tenancy that does not automatically renew. The tenancy will end on the Termination Date unless terminated earlier in accordance with this Agreement or the Act.
 
@@ -71,7 +71,7 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 4.1 **Monthly Rent**: Tenant agrees to pay monthly rent of **${RENT_AMOUNT}** payable in advance on the **${COMMENCEMENT_DAY}** day of each month.
 
-4.2 **Payment Methods**: Rent shall be paid by e-transfer or by other mutually agreed electronic transfer method. Cash payments are discouraged for security reasons.
+4.2 **Payment Methods**: Rent shall be paid by e-transfer or by other mutually agreed electronic transfer method.
 
 4.3 **First Payment**: The first month's rent in the amount of **${RENT_AMOUNT}** is due upon move-in.
 
@@ -193,7 +193,7 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 ## 12. KEYS, LOCKS AND SECURITY
 
-12.1 **Key Provision**: Landlord shall provide Tenant with **${NUMBER_OF_KEYS}** complete set- of keys for all exterior doors.
+12.1 **Key Provision**: Landlord shall provide Tenant with keys for all exterior doors.
 
 12.2 **Key Return**: Upon termination, Tenant shall return all keys, garage remotes, and access devices. Failure to return keys will result in lock change costs charged to Tenant.
 
@@ -238,9 +238,7 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 - Registered mail to the addresses specified in this Agreement
 - Electronic transmission resulting in a printed copy, if other methods unavailable
 
-16.2 **Landlord's Address**: Tenant shall deliver notices to Landlord at: **${LANDLORD_ADDRESS}**
-
-16.3 **Deemed Service**: Notices are deemed served:
+16.2 **Deemed Service**: Notices are deemed served:
 
 - When personally delivered
 - Three (3) days after mailing by registered mail
@@ -333,13 +331,9 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 
 ## 23. FIRE SAFETY AND EMERGENCY PROCEDURES
 
-23.1 **Smoke Detector Testing**: Tenant shall test smoke detectors monthly and immediately report any malfunctions to Landlord. Tenant responsible for replacing batteries in battery-operated detectors.
+23.1 **Smoke Detector Testing**: Tenant shall not tamper with smoke detectors and must report any malfunction immediately.
 
 23.2 **Carbon Monoxide Detectors**: Tenant shall not tamper with carbon monoxide detectors and must report any malfunction immediately.
-
-23.3 **Fire Escape Plan**: Tenant acknowledges receiving fire escape plan for the Premises and agrees to familiarize all occupants with emergency exits.
-
-23.4 **Emergency Contact**: In case of emergency, Tenant may contact Landlord at **${LANDLORD_PHONE}** or emergency services at 911.
 
 ## 24. NORMAL WEAR AND TEAR
 
@@ -359,8 +353,6 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 - Excessive dirt, grime, or neglect requiring deep cleaning
 - Pet damage including odors, scratches, or urine stains
 - Smoking damage including odors or discoloration
-
-24.3 **Security Deposit Deductions**: Landlord may only deduct from security deposit for damages beyond normal wear and tear, with written documentation provided to Tenant.
 
 ## 25. DISPUTE RESOLUTION
 
