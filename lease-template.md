@@ -160,6 +160,36 @@ B. Tenant is desirous of renting the Premises from Landlord on a fixed term basi
 - Emergency contact information
 - Employment information (if requested)
 
+8.8 **Modifications and Alterations**: Tenant shall not make any modifications, alterations, improvements, or changes to the Premises without Landlord's prior written consent, including but not limited to:
+
+- Structural changes to walls, floors, ceilings, or building framework
+- Installation or removal of fixtures, appliances, or built-in features
+- Painting, wallpapering, or other cosmetic changes to walls or ceilings
+- Changes to flooring, carpeting, or floor coverings
+- Installation of shelving, cabinets, or storage systems requiring wall mounting
+- Modifications to electrical, plumbing, heating, or cooling systems
+- Installation of security systems, cameras, or electronic devices requiring permanent mounting
+- Changes to doors, windows, locks (beyond those permitted in Section 12), or hardware
+- Landscaping modifications including planting, removing trees/shrubs, or installing garden structures
+- Any other changes that alter the physical condition or appearance of the Premises
+
+8.9 **Approval Process**: If Tenant wishes to make any modifications:
+
+- Tenant must submit a written request to Landlord describing the proposed modifications in detail, including materials, contractors, and timeline
+- Landlord may approve, deny, or approve with conditions at Landlord's sole discretion
+- Landlord's consent or denial shall be provided in writing within fourteen (14) days of receiving the request
+- If approved, Tenant must obtain all necessary permits and ensure work is completed by licensed professionals where required
+- Tenant shall provide Landlord with copies of all permits and final inspection certificates upon completion
+
+8.10 **Unauthorized Modifications**: Any modifications made without Landlord's written consent:
+
+- Constitute a substantial breach of this Agreement
+- Must be removed and the Premises restored to original condition at Tenant's expense within fourteen (14) days of written notice from Landlord
+- May result in termination of tenancy pursuant to Section 15.3
+- Tenant shall be liable for all costs associated with removal and restoration, including Landlord's reasonable inspection and administrative costs
+- Tenant shall be liable for any decrease in property value resulting from unauthorized modifications
+
+
 ## 9. LANDLORD OBLIGATIONS
 
 9.1 **Maintenance Standards**: Landlord shall maintain the Premises in a good state of repair and fit for habitation, complying with health, safety, and housing standards.
