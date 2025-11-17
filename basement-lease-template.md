@@ -2,7 +2,7 @@
 geometry: margin=2.54cm
 ---
 
-# RESIDENTIAL TENANCY AGREEMENT - MAIN FLOOR
+# RESIDENTIAL TENANCY AGREEMENT - BASEMENT SUITE
 
 This lease is governed by Alberta's Residential Tenancies Act. If this agreement conflicts with that Act, the Act takes priority.
 
@@ -32,13 +32,13 @@ Email: ${TENANT_EMAIL}
 
 ## 2. PROPERTY DESCRIPTION
 
-**Tenant has exclusive use of:** Main floor including all bedrooms, bathrooms, kitchen, living areas, and dining areas.
+**Tenant has exclusive use of:** Complete basement legal suite including all bedrooms, bathrooms, kitchen/kitchenette, living areas, laundry areas, and any other rooms located on the basement level.
 
-**Tenant has shared access to:** Garage, mechanical room (for furnace maintenance and meter readings), front yard, backyard, and driveway.
+**Tenant has shared access to:** Garage, mechanical room (for furnace maintenance and meter readings), front yard, backyard, side yards, and driveway.
 
-**Tenant cannot use:** Basement or basement suite areas.
+**Tenant cannot use:** Main floor or any areas designated exclusively for main floor tenant use.
 
-**Coordinate with basement tenant** for shared area access and maintenance scheduling.
+**Coordinate with main floor tenant** for shared area access and maintenance scheduling.
 
 ## 3. RENT
 
@@ -123,8 +123,8 @@ Email: ${TENANT_EMAIL}
 
 ## 9. UTILITIES
 
-**Tenant's share:** ${MAIN_FLOOR_UTILITY_PERCENT}% of total utilities  
-**Basement tenant's share:** ${BASEMENT_UTILITY_PERCENT}% of total utilities
+**Tenant's share:** ${BASEMENT_UTILITY_PERCENT}% of total utilities  
+**Main floor tenant's share:** ${MAIN_FLOOR_UTILITY_PERCENT}% of total utilities
 
 **Payment:**  
 
@@ -151,7 +151,6 @@ Email: ${TENANT_EMAIL}
 - Tenant is responsible for requesting and putting any other utilities under their own name with the provider
 - Tenant is responsible for all costs associated with these services
 
-
 ## 10. LANDLORD RESPONSIBILITIES
 
 - Keep property in good repair and safe condition
@@ -174,7 +173,7 @@ Landlord can enter only with **24 hours written notice**, except emergencies.
 
 ## 12. KEYS & LOCKS
 
-- Landlord provides keys for all exterior doors
+- Landlord provides keys for all exterior basement doors and basement access points
 - **Tenant must return all keys at move-out** (failure results in lock change cost charged to Tenant)
 - Tenant cannot change locks without written permission (if they do, Landlord changes them back at Tenant's expense)
 
@@ -265,13 +264,9 @@ All notices must be in writing:
 
 ## 21. OUTDOOR MAINTENANCE
 
-**Tenant is responsible for:**
-
-- **Snow/Ice Removal:** Remove from all sidewalks, driveways, walkways, entrances within 24-48 hours of snowfall (per city bylaws)
-- **Lawn Care:** Regular mowing during growing season, edging, basic weed control
-- **Leaves & Debris:** Remove fallen leaves and branches; keep yard tidy
-- **Garden Maintenance:** Basic upkeep of flower beds, shrubs, watering, weed removal (major changes need Landlord approval)
-- **Municipal Compliance:** Meet city standards; Tenant pays any fines for non-compliance
+  - **Snow/Ice Removal:** Remove snow and ice from the rear entrance, rear entrance stairs, landing, and walkway leading directly to basement access within 24-48 hours of snowfall (per city bylaws)
+  - **Rear Entrance Cleanliness:** Keep rear entrance area, steps, and immediate surroundings clear of leaves, branches, debris, and other obstructions
+  - **Municipal Compliance:** Ensure rear entrance area meets municipal standards; Tenant pays any fines for non-compliance in this area
 
 ## 22. DRAINAGE & PLUMBING
 
@@ -296,13 +291,13 @@ All notices must be in writing:
 **Available to Tenant:**  
 
 - Outdoor driveway and parking areas
-- Garage space (shared with basement tenant)
+- Garage space (shared with main floor tenant)
 
 **Garage:**  
 
 - Gravel floor surface (not finished concrete)
 - Each tenant can park one (1) vehicle, space permitting
-- Coordinate equitably with basement tenant
+- Coordinate equitably with main floor tenant
 - Tenant parks at own risk; Landlord not responsible for gravel/dust damage
 
 **Garage etiquette:**  
@@ -357,7 +352,7 @@ All notices must be in writing:
 - Remove all personal belongings
 - Return all keys and access devices
 - Leave property clean and undamaged
-- Complete final outdoor maintenance (snow removal, lawn care as needed)
+- Complete final outdoor maintenance as seasonally appropriate, coordinating with main floor tenant
 - Attend move-out inspection
 
 **Security deposit return:**  
@@ -391,6 +386,7 @@ Signature: _______________________
 Name: ${LANDLORD_NAMES}
 
 \
+
 \
 
 **TENANT:**
@@ -400,6 +396,7 @@ Signature: _______________________
 Name: ${TENANT_NAMES}
 
 \
+
 \
 
 Date: _______________________
