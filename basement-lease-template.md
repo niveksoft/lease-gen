@@ -38,8 +38,6 @@ Email: ${TENANT_EMAIL}
 
 **Tenant cannot use:** Main floor or any areas designated exclusively for main floor tenant use.
 
-**Coordinate with main floor tenant** for shared area access and maintenance scheduling.
-
 ## 3. RENT
 
 - **Amount:** $${RENT_AMOUNT} per month
@@ -124,7 +122,6 @@ Email: ${TENANT_EMAIL}
 ## 9. UTILITIES
 
 **Tenant's share:** ${BASEMENT_UTILITY_PERCENT}% of total utilities  
-**Main floor tenant's share:** ${MAIN_FLOOR_UTILITY_PERCENT}% of total utilities
 
 **Payment:**  
 
@@ -264,7 +261,7 @@ All notices must be in writing:
 
 ## 21. OUTDOOR MAINTENANCE
 
-  - **Snow/Ice Removal:** Remove snow and ice from the rear entrance, rear entrance stairs, landing, and walkway leading directly to basement access within 24-48 hours of snowfall (per city bylaws)
+  - **Snow/Ice Removal:** Remove snow and ice from the basement rear entrance, landing, and walkway leading directly to basement access within 24-48 hours of snowfall (per city bylaws)
   - **Rear Entrance Cleanliness:** Keep rear entrance area, steps, and immediate surroundings clear of leaves, branches, debris, and other obstructions
   - **Municipal Compliance:** Ensure rear entrance area meets municipal standards; Tenant pays any fines for non-compliance in this area
 
@@ -301,6 +298,7 @@ All notices must be in writing:
 - Tenant parks at own risk; Landlord not responsible for gravel/dust damage
 
 **Garage etiquette:**  
+
 - Don't block other tenant's access
 - Keep garage area tidy and free of storage clutter
 - Be courteous with shared space

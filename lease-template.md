@@ -38,8 +38,6 @@ Email: ${TENANT_EMAIL}
 
 **Tenant cannot use:** Basement or basement suite areas.
 
-**Coordinate with basement tenant** for shared area access and maintenance scheduling.
-
 ## 3. RENT
 
 - **Amount:** $${RENT_AMOUNT} per month
@@ -124,7 +122,6 @@ Email: ${TENANT_EMAIL}
 ## 9. UTILITIES
 
 **Tenant's share:** ${MAIN_FLOOR_UTILITY_PERCENT}% of total utilities  
-**Basement tenant's share:** ${BASEMENT_UTILITY_PERCENT}% of total utilities
 
 **Payment:**  
 
@@ -150,7 +147,6 @@ Email: ${TENANT_EMAIL}
 - Landlord does NOT provide any other utilities (internet, cable TV, phone, etc.)
 - Tenant is responsible for requesting and putting any other utilities under their own name with the provider
 - Tenant is responsible for all costs associated with these services
-
 
 ## 10. LANDLORD RESPONSIBILITIES
 
@@ -306,6 +302,7 @@ All notices must be in writing:
 - Tenant parks at own risk; Landlord not responsible for gravel/dust damage
 
 **Garage etiquette:**  
+
 - Don't block other tenant's access
 - Keep garage area tidy and free of storage clutter
 - Be courteous with shared space
