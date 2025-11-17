@@ -145,6 +145,13 @@ Email: ${TENANT_EMAIL}
 
 **If utilities are not paid 3 or more times:** Grounds for eviction
 
+**Other utilities:**  
+
+- Landlord does NOT provide any other utilities (internet, cable TV, phone, etc.)
+- Tenant is responsible for requesting and putting any other utilities under their own name with the provider
+- Tenant is responsible for all costs associated with these services
+
+
 ## 10. LANDLORD RESPONSIBILITIES
 
 - Keep property in good repair and safe condition
