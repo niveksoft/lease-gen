@@ -6,8 +6,6 @@ geometry: margin=2.54cm
 
 This lease is governed by Alberta's Residential Tenancies Act. If this agreement conflicts with that Act, the Act takes priority.
 
-**Agreement Date:** _______________________
-
 **Property Address:** ${PROPERTY_ADDRESS}
 
 ## PARTIES
@@ -41,7 +39,7 @@ Email: ${TENANT_EMAIL}
 ## 3. RENT
 
 - **Amount:** $${RENT_AMOUNT} per month
-- **Due Date:** ${COMMENCEMENT_DAY} day of each month
+- **Due Date:** 1st day of each month
 - **Payment Method:** Electronic transfer or other agreed upon payment method
 - **First Payment:** Due on move-in date
 - **Prorated Rent:** If move-in is not on the 1st, rent is prorated accordingly
@@ -50,7 +48,7 @@ Email: ${TENANT_EMAIL}
 
 - **Amount:** $${RENT_AMOUNT} (equals one month's rent)
 - **Due Date:** Upon signing
-- **Interest:** Landlord pays 0.5% annual interest per Alberta regulations
+- **Interest:** Landlord pays annual interest per Alberta regulations
 - **Return:** Returned within 10 days of move-out, minus any lawful deductions
 - **Held in:** Interest-bearing trust account
 
@@ -261,7 +259,7 @@ All notices must be in writing:
 
 ## 21. OUTDOOR MAINTENANCE
 
-  - **Snow/Ice Removal:** Remove snow and ice from the basement rear entrance, landing, and walkway leading directly to basement access within 24-48 hours of snowfall (per city bylaws)
+  - **Snow/Ice Removal:** Remove snow and ice from the rear entrance, landing, and walkway leading directly to basement access within 24-48 hours of snowfall (per city bylaws)
   - **Rear Entrance Cleanliness:** Keep rear entrance area, steps, and immediate surroundings clear of leaves, branches, debris, and other obstructions
   - **Municipal Compliance:** Ensure rear entrance area meets municipal standards; Tenant pays any fines for non-compliance in this area
 
@@ -309,6 +307,8 @@ All notices must be in writing:
 - Address: ${EMERGENCY_ADDRESS}
 - Relationship: ${EMERGENCY_RELATIONSHIP}
 - Phone: ${EMERGENCY_PHONE}
+- Email: ${EMERGENCY_EMAIL}
+
 
 **Tenant must notify Landlord within 10 days of changes to:**  
 

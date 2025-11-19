@@ -6,7 +6,7 @@ geometry: margin=2.54cm
 
 Received From: ${TENANT_NAMES}\
 \
-Amount Received: ${RENT_AMOUNT}\
+Amount Received: $${RENT_AMOUNT}\
 
 For the rental property located at:\
 \

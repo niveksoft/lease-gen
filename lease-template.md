@@ -6,8 +6,6 @@ geometry: margin=2.54cm
 
 This lease is governed by Alberta's Residential Tenancies Act. If this agreement conflicts with that Act, the Act takes priority.
 
-**Agreement Date:** _______________________
-
 **Property Address:** ${PROPERTY_ADDRESS}
 
 ## PARTIES
@@ -41,7 +39,7 @@ Email: ${TENANT_EMAIL}
 ## 3. RENT
 
 - **Amount:** $${RENT_AMOUNT} per month
-- **Due Date:** ${COMMENCEMENT_DAY} day of each month
+- **Due Date:** 1st day of each month
 - **Payment Method:** Electronic transfer or other agreed upon payment method
 - **First Payment:** Due on move-in date
 - **Prorated Rent:** If move-in is not on the 1st, rent is prorated accordingly
