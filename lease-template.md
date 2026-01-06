@@ -48,7 +48,7 @@ Email: ${TENANT_EMAIL}
 
 - **Amount:** $${RENT_AMOUNT} (equals one month's rent)
 - **Due Date:** Upon signing
-- **Interest:** Landlord pays 0.5% annual interest per Alberta regulations
+- **Interest:** Landlord pays ${DEPOSIT_INTEREST_RATE}% annual interest per Alberta regulations for ${COMMENCEMENT_YEAR}
 - **Return:** Returned within 10 days of move-out, minus any lawful deductions
 - **Held in:** Interest-bearing trust account
 
