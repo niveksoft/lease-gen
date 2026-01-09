@@ -11,6 +11,7 @@ This repository contains templates and scripts to generate lease agreements in m
 ## Usage
 
 1. **Set permissions**:
+
    ```bash
    chmod +x generate-lease-all.sh
    ```
@@ -20,9 +21,16 @@ This repository contains templates and scripts to generate lease agreements in m
 
 3. **Generate Documents**:
    - All formats (Markdown, PDF, HTML, DOCX):
+
      ```bash
      ./generate-lease-all.sh
      ```
+
+4. Typst pdf generation
+
+  ```bash
+  typst compile lease-agreement.typ lease-agreement.pdf
+  ```
 
 ## Requirements
 
